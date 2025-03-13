@@ -133,7 +133,7 @@ body {
     
     .content2-cards  {
         margin: 10%;
-        
+
     }
     
     .content2-cards  h4{
@@ -156,8 +156,9 @@ body {
     }
     
     .card-companies img {
-        max-width:100% ;
+        max-width:100px ;
         height:100% ;
+        display: flex;
     }
     
     .content3-container {
